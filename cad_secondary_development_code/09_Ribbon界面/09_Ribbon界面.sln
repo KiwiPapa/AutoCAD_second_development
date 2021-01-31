@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Ribbon界面", "09_Ribbon界面\09_Ribbon界面.csproj", "{BF82C57D-D5EA-4F23-9973-B972B2275BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF82C57D-D5EA-4F23-9973-B972B2275BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF82C57D-D5EA-4F23-9973-B972B2275BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF82C57D-D5EA-4F23-9973-B972B2275BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF82C57D-D5EA-4F23-9973-B972B2275BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F31702F-064A-4FA8-8EEA-3B86968F2F22}
+	EndGlobalSection
+EndGlobal

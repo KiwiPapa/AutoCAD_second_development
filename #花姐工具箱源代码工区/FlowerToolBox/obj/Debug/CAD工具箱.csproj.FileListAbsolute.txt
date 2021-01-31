@@ -1,0 +1,14 @@
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\obj\Debug\CAD工具箱.csproj.CoreCompileInputs.cache
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\obj\Debug\04_用户交互.dll
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\obj\Debug\04_用户交互.pdb
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\bin\Debug\04_用户交互.dll
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\bin\Debug\04_用户交互.pdb
+C:\Users\YANGYI\Desktop\ProjectForCAD\04_用户交互\obj\Debug\CAD工具箱.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\bin\Debug\04_用户交互.dll
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\bin\Debug\04_用户交互.pdb
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\obj\Debug\CAD工具箱.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\obj\Debug\CAD工具箱.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\obj\Debug\04_用户交互.dll
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\obj\Debug\04_用户交互.pdb
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\bin\Debug\AcDoNetTools.dll
+C:\Users\Administrator\Desktop\ProjectForCAD\04_用户交互\obj\Debug\CAD工具箱.csprojAssemblyReference.cache
